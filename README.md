@@ -1,6 +1,7 @@
 # r-trivia-night-melbourne2016
 
 ### The following is a draft of questions used in  R Trivia Night by R-Ladies Melbourne team
+**see also slides for a final draft**
 
 
 Potential questions for Trivia Night
